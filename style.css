@@ -1,0 +1,107 @@
+body{
+    background-color: beige;
+    text-align: center;
+    padding: 5% 17%;
+ 
+
+ 
+}
+
+
+button{
+    height: 50px;
+    width: 150px;
+
+    
+}
+#dark{
+    position:absolute;
+   
+margin-left: 50px;
+
+}
+#yes{
+    position:relative;
+    right: 190px;
+}
+.hovered{
+    background-color: red;
+}
+#imga{
+    visibility: hidden;
+    position: absolute;
+    left: 100px;
+    bottom: 1px;
+    margin-left: 100px;
+    height: 200px;
+    width: 200px;
+
+}
+#imgb{
+    visibility: hidden;
+    position: absolute;
+    left: 100px;
+    bottom: 1px;
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+
+}
+
+#imgc{
+    visibility: hidden;
+    position: absolute;
+    margin-left: 100px;
+    height: 100px;
+    width: 100px;
+
+}
+
+
+#imgd{
+    visibility: hidden;
+    position: absolute;
+    margin-left: 300px;
+    height: 100px;
+    width: 100px;
+
+}
+
+
+#imge{
+    visibility: hidden;
+    position:absolute;
+top: 400;
+    margin-left: 300px;
+    height: 100px;
+    width: 100px;
+
+}
+#imgf{
+    visibility: hidden;
+    position: absolute;
+    margin-left: 300px;
+    height: 100px;
+    width: 100px;
+
+}
+#imgg{
+    visibility: hidden;
+    position: absolute;
+    margin-left: 300px;
+    height: 100px;
+    width: 100px;
+
+}
+
+
+.bigbutton{
+    width: 900px;
+    height: 500px;
+    position: relative;
+    bottom: 500px;
+    font-size: 300px;
+}
+.dark{
+    visibility: hidden;
+}
